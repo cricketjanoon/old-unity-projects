@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0d28d775598c14e4fb7f16ee735f2cf3
+timeCreated: 1501761291
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlockItOut
+  fontNames:
+  - BlockItOut
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
